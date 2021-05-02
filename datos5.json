@@ -29,20 +29,48 @@
       "parent": 2
     },
     {
-      "id": 14,
-      "name": "optimization",
-      "parent": 2
+      "id": 7,
+      "name": "Mobility",
+      "parent": 1
     },
     {
-      "id": 15,
-      "name": "AspectRatioBanker",
-      "parent": 14,
-      "size": 7074
+      "id": 8,
+      "name": "Can a woman open a bank account in the same way as a man?",
+      "parent": 7
+    },
+      "id": 9,
+      "name": "Can a woman register a business in the same way as a man?",
+      "parent": 7
+    },
+       "id": 10,
+      "name": "Can a woman sign a contract in the same way as a man?",
+      "parent": 7
+    },
+       "id": 11,
+      "name": "Does the law prohibit discrimination in employment based on gender?",
+      "parent": 7
     },
     {
-      "id": 16,
+      "id": 12,
       "name": "Entrepreneurship",
       "parent": 1
+    },
+    {
+      "id": 13,
+      "name": "Can a woman open a bank account in the same way as a man?",
+      "parent": 12
+    },
+      "id": 14,
+      "name": "Can a woman register a business in the same way as a man?",
+      "parent": 12
+    },
+       "id": 15,
+      "name": "Can a woman sign a contract in the same way as a man?",
+      "parent": 12
+    },
+       "id": 16,
+      "name": "Does the law prohibit discrimination in employment based on gender?",
+      "parent": 12
     },
     {
       "id": 17,
