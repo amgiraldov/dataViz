@@ -5,17 +5,17 @@
     },
     {
       "id": 2,
-      "name": "analytics",
+      "name": "Ensayo 1",
       "parent": 1
     },
     {
       "id": 3,
-      "name": "cluster",
+      "name": "Ensayo 2",
       "parent": 2
     },
     {
       "id": 4,
-      "name": "AgglomerativeCluster",
+      "name": "Ensayo 3",
       "parent": 3,
       "size": 3938
     },
@@ -27,19 +27,19 @@
     },
     {
       "id": 6,
-      "name": "HierarchicalCluster",
+      "name": "Pendiente",
       "parent": 3,
       "size": 6714
     },
     {
       "id": 7,
-      "name": "MergeEdge",
+      "name": "REvisa",
       "parent": 3,
       "size": 743
     },
     {
       "id": 8,
-      "name": "graph",
+      "name": "Por acá es",
       "parent": 2
     },
     {
