@@ -38,14 +38,17 @@
       "name": "Can a woman open a bank account in the same way as a man?",
       "parent": 7
     },
+    {
       "id": 9,
       "name": "Can a woman register a business in the same way as a man?",
       "parent": 7
     },
+    {
        "id": 10,
       "name": "Can a woman sign a contract in the same way as a man?",
       "parent": 7
     },
+    {
        "id": 11,
       "name": "Does the law prohibit discrimination in employment based on gender?",
       "parent": 7
