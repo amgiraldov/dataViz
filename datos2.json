@@ -11,22 +11,26 @@
     {
       "id": 3,
       "name": "Do male and female surviving spouses have equal rights to inherit assets?",
-      "parent": 2
+      "parent": 2,
+       "size" = 300
     },
     {
       "id": 4,
       "name": "Do men and women have equal ownership rights to immovable property?",
-      "parent": 2
+      "parent": 2,
+       "size" = 200
     },
     {
       "id": 5,
       "name": "Do sons and daughters have equal rights to inherit assets from their parents?",
-      "parent": 2
+      "parent": 2,
+       "size" = 100
     },
     {
       "id": 6,
       "name": "Does the law provide for the valuation of nonmonetary contributions?",
-      "parent": 2
+      "parent": 2,
+      "size" = 900
     },
     {
       "id": 7,
@@ -36,22 +40,26 @@
     {
       "id": 8,
       "name": "Can a woman open a bank account in the same way as a man?",
-      "parent": 7
+      "parent": 7,
+      "size" = 900
     },
     {
       "id": 9,
       "name": "Can a woman register a business in the same way as a man?",
-      "parent": 7
+      "parent": 7,
+      "size" = 900
     },
     {
        "id": 10,
       "name": "Can a woman sign a contract in the same way as a man?",
-      "parent": 7
+      "parent": 7,
+      "size" = 500
     },
     {
        "id": 11,
       "name": "Does the law prohibit discrimination in employment based on gender?",
-      "parent": 7
+      "parent": 7,
+      "size" =400
     },
     {
       "id": 17,
@@ -61,32 +69,38 @@
     {
       "id": 18,
       "name": "Can a woman be head of household in the same way as a man?",
-      "parent": 17
+      "parent": 17,
+      "size" = 900
     },
     {
       "id": 19,
       "name": "Can a woman obtain a judgment of divorce in the same way as a man?",
-      "parent": 17
+      "parent": 17,
+      "size" = 900
     },
     {
       "id": 20,
       "name": "Does a woman have the same rights to remarry as a man?",
-      "parent": 17
+      "parent": 17,
+      "size" = 900
     },
     {
       "id": 21,
       "name": "Does the law grant spouses equal administrative authority over assets during marriage?",
-      "parent": 17
+      "parent": 17,
+      "size" = 900
     },
     {
       "id": 22,
       "name": "Is there legislation specifically addressing domestic violence?",
-      "parent": 17
+      "parent": 17,
+      "size" = 900
     },
     {
       "id": 23,
       "name": "Is there no legal provision that requires a married woman to obey her husband?",
-      "parent": 17
+      "parent": 17,
+      "size" = 900
     },
     {
       "id": 24,
@@ -96,22 +110,26 @@
     {
       "id": 25,
       "name": "Can a woman apply for a passport in the same way as a man?",
-      "parent": 24
+      "parent": 24,
+      "size" = 900
     },
     {
       "id": 26,
       "name": "Can a woman choose where to live in the same way as a man?",
-      "parent": 24
+      "parent": 24,
+      "size" = 900
     },
     {
       "id": 27,
       "name": "Can a woman travel outside her home in the same way as a man?",
-      "parent": 24
+      "parent": 24,
+      "size" = 900
     },
     {
       "id": 28,
       "name": "Can a woman travel outside the country in the same way as a man?",
-      "parent": 24
+      "parent": 24,
+      "size" = 900
     },
     {
       "id": 29,
@@ -121,27 +139,32 @@
     {
       "id": 30,
       "name": "Does the government administer 100% of maternity leave benefits?",
-      "parent": 29
+      "parent": 29,
+      "size" = 300
     },
     {
       "id": 31,
       "name": "Is dismissal of pregnant workers prohibited?",
-      "parent": 29
+      "parent": 29,
+      "size" = 900
     },
     {
       "id": 32,
       "name": "Is paid leave of at least 14 weeks available to mothers?",
-      "parent": 29
+      "parent": 29,
+      "size" = 900
     },
     {
       "id": 33,
       "name": "Is there paid parental leave?",
-      "parent": 29
+      "parent": 29,
+      "size" = 900
     },
     {
       "id": 34,
       "name": "Is there paid leave available to fathers?",
-      "parent": 29
+      "parent": 29,
+      "size" = 900
     },
     {
       "id": 35,
@@ -151,22 +174,26 @@
     {
       "id": 36,
       "name": "Can a woman work at night in the same way as a man?",
-      "parent": 35
+      "parent": 35,
+      "size" = 900
     },
     {
       "id": 37,
       "name": "Can a woman work in a job deemed dangerous in the same way as a man?",
-      "parent": 35
+      "parent": 35,
+      "size" = 900
     },
     {
       "id": 38,
       "name": "Can a woman work in an industrial job in the same way as a man?",
-      "parent": 35
+      "parent": 35,
+      "size" = 900
     },
     {
       "id": 39,
       "name": "Does the law mandate equal remuneration for work of equal value?",
-      "parent": 35
+      "parent": 35,
+      "size" = 900
     },
     {
       "id": 40,
@@ -176,22 +203,26 @@
     {
       "id": 41,
       "name": "Are periods of absence due to childcare accounted for in pension benefits?",
-      "parent": 40
+      "parent": 40,
+      "size" = 900
     },
     {
       "id": 42,
       "name": "CIs the age at which men and women can retire with full pension benefits the same?",
-      "parent": 40
+      "parent": 40,
+      "size" = 900
     },
     {
       "id": 43,
       "name": "Is the age at which men and women can retire with partial pension benefits the same?",
-      "parent": 40
+      "parent": 40,
+      "size" = 900
     },
     {
       "id": 44,
       "name": "Is the mandatory retirement age for men and women the same?",
-      "parent": 40
+      "parent": 40,
+      "size" = 900
     },
     {
       "id": 45,
@@ -201,21 +232,25 @@
     {
       "id": 46,
       "name": "Are there criminal penalties or civil remedies for sexual harassment in employment?",
-      "parent": 45
+      "parent": 45,
+      "size" = 900
     },
     {
       "id": 47,
       "name": "Can a woman get a job in the same way as a man?",
-      "parent": 45
+      "parent": 45,
+      "size" = 900
     },
     {
       "id": 48,
       "name": "Does the law prohibit discrimination in access to credit based on gender?",
-      "parent": 45
+      "parent": 45,
+      "size" = 900
     },
     {
       "id": 49,
       "name": "Is there legislation on sexual harassment in employment?",
-      "parent": 45
+      "parent": 45,
+      "size" = 900
     }   
 ]
