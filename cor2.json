@@ -11,5 +11,12 @@
 		"Dimension 2":"MOBILITY" , 
 		"Correlation": 0, 
 		"Group": "South Asia", 
-		"Number economies": "8"}
+		"Number economies": "8"},
+	{
+		"Dimension 1":"PAY", "Dimension 2":"MOBILITY" , "Correlation": 0.304290309725092, "Group": "South Asia", "Number economies": "8"
+	},
+	{
+		"Dimension 1":"MARRIAGE", "Dimension 2":"MOBILITY" , "Correlation": 0.604040449692622, "Group": "South Asia", "Number economies": "8"
+	}
+
 ]
