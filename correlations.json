@@ -1,0 +1,23 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "https://raw.githubusercontent.com/soniasocadagui/dataviz/main/corfile.json"},
+
+  "mark": {
+    "type": "rect",
+    "tooltip": {"content": "data"},
+    "cursor": "pointer"
+  },
+  "encoding": {
+    "facet": {
+      "field": "Group",
+      "type": "ordinal",
+      "columns" :4
+    },
+    "y": {"field": "Dimension 1", "type": "nominal"},
+    "x": {"field": "Dimension 2", "type": "nominal"},
+    "color": {"aggregate": "mean", "field": "Correlation"}
+  },
+  "config": {
+    "axis": {"grid": true, "tickBand": "extent"}
+  }
+}
