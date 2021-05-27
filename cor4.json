@@ -1,0 +1,56 @@
+[
+	{
+		"Dimension 1":"MOBILITY", 
+		"Dimension 2":"MOBILITY" , 
+		"Correlation": 1, 
+		"Group": "South Asia", 
+		"Number economies": "8"
+	},
+	{
+		"Dimension 1":"WORKPLACE", 
+		"Dimension 2":"MOBILITY" , 
+		"Correlation": 0, 
+		"Group": "South Asia", 
+		"Number economies": "8"},
+	{
+		"Dimension 1":"PAY", "Dimension 2":"MOBILITY" , "Correlation": 0.304290309725092, "Group": "South Asia", "Number economies": "8"
+	},
+	{
+		"Dimension 1":"MARRIAGE", "Dimension 2":"MOBILITY" , "Correlation": 0.604040449692622, "Group": "South Asia", "Number economies": "8"
+	},
+	{"Dimension 1":"PARENTHOOD", "Dimension 2":"MOBILITY" , "Correlation": 0.353553390593274, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"ENTREPRENEURSHIP", "Dimension 2":"MOBILITY" , "Correlation": 0, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"ASSETS", "Dimension 2":"MOBILITY" , "Correlation": 0.353553390593274, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"PENSION", "Dimension 2":"MOBILITY" , "Correlation": 0.204124145231932, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"MOBILITY", "Dimension 2":"WORKPLACE" , "Correlation": 0, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"WORKPLACE", "Dimension 2":"WORKPLACE" , "Correlation": 1, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"PAY", "Dimension 2":"WORKPLACE" , "Correlation": 0.547722557505166, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"MARRIAGE", "Dimension 2":"WORKPLACE" , "Correlation": 0.335578027607012, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"PARENTHOOD", "Dimension 2":"WORKPLACE" , "Correlation": 0.707106781186548, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"ENTREPRENEURSHIP", "Dimension 2":"WORKPLACE" , "Correlation": 0, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"ASSETS", "Dimension 2":"WORKPLACE" , "Correlation": 0.353553390593274, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"PENSION", "Dimension 2":"WORKPLACE" , "Correlation": 0.612372435695795, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"MOBILITY", "Dimension 2":"PAY" , "Correlation": 0.304290309725092, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"WORKPLACE", "Dimension 2":"PAY" , "Correlation": 0.547722557505166, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"PAY", "Dimension 2":"PAY" , "Correlation": 1, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"MARRIAGE", "Dimension 2":"PAY" , "Correlation": 0.432959721899687, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"PARENTHOOD", "Dimension 2":"PAY" , "Correlation": 0.774596669241483, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"ENTREPRENEURSHIP", "Dimension 2":"PAY" , "Correlation": -0.172132593164774, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"ASSETS", "Dimension 2":"PAY" , "Correlation": 0.430331482911935, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"PENSION", "Dimension 2":"PAY" , "Correlation": 0.298142396999972, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"MOBILITY", "Dimension 2":"MARRIAGE" , "Correlation": 0.604040449692622, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"WORKPLACE", "Dimension 2":"MARRIAGE" , "Correlation": 0.335578027607012, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"PAY", "Dimension 2":"MARRIAGE" , "Correlation": 0.432959721899687, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"MARRIAGE", "Dimension 2":"MARRIAGE" , "Correlation": 1, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"PARENTHOOD", "Dimension 2":"MARRIAGE" , "Correlation": 0.47457899787625, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"ENTREPRENEURSHIP", "Dimension 2":"MARRIAGE" , "Correlation": -0.1898315991505, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"ASSETS", "Dimension 2":"MARRIAGE" , "Correlation": 0.854242196177249, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"PENSION", "Dimension 2":"MARRIAGE" , "Correlation": 0.547996624351191, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"MOBILITY", "Dimension 2":"PARENTHOOD" , "Correlation": 0.353553390593274, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"WORKPLACE", "Dimension 2":"PARENTHOOD" , "Correlation": 0.707106781186548, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"PAY", "Dimension 2":"PARENTHOOD" , "Correlation": 0.774596669241483, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"MARRIAGE", "Dimension 2":"PARENTHOOD" , "Correlation": 0.47457899787625, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"PARENTHOOD", "Dimension 2":"PARENTHOOD" , "Correlation": 1, "Group": "South Asia", "Number economies": "8"},
+	{"Dimension 1":"ENTREPRENEURSHIP", "Dimension 2":"PARENTHOOD" , "Correlation": 0, "Group": "South Asia", "Number economies": "8"}
+
+]
